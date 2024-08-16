@@ -13,7 +13,7 @@ A simple platform to fix 35mm film in place with an even backlight, provided by 
       </td>
     </tr>
     <tr>
-      <td>
+      <td colspan="2">
         <img src="images/signal-2024-08-16-154910_004.jpeg"/>
       </td>
     </tr>
